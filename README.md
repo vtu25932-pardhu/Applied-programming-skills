@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0008-string-to-integer-atoi) |
+| [0257-binary-tree-paths](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -82,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
