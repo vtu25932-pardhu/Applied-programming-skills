@@ -41,9 +41,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
