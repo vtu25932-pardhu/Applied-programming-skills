@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0739-daily-temperatures](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0739-daily-temperatures) |
+| [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -102,4 +105,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1603-design-parking-system) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
