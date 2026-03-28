@@ -87,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
