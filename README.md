@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0053-maximum-subarray) |
+| [0705-design-hashset](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0705-design-hashset](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1396-design-underground-system) |
 ## Sliding Window
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1603-design-parking-system) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
