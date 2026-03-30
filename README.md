@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
