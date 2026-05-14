@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0705-design-hashset](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
 | [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
