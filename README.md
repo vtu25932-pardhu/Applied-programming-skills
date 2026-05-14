@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
 | [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0112-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
 |  |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
