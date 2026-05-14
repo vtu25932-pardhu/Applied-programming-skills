@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0705-design-hashset) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
