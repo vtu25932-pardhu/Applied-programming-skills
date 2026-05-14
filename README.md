@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [1763-longest-nice-substring](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0008-string-to-integer-atoi) |
 | [0257-binary-tree-paths](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [1396-design-underground-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1396-design-underground-system) |
+| [1763-longest-nice-substring](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1763-longest-nice-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1396-design-underground-system) |
+| [1763-longest-nice-substring](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1763-longest-nice-substring) |
 ## Stack
 |  |
 | ------- |
@@ -141,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
