@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0070-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
