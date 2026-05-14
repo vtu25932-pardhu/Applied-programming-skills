@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0705-design-hashset](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0705-design-hashset](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1396-design-underground-system) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Linked List
 |  |
