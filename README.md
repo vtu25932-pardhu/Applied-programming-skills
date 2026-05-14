@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
 | [1472-design-browser-history](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -168,4 +171,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
