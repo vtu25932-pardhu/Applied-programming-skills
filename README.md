@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
+| [0547-number-of-provinces](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
@@ -206,10 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25932-pardhu/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
